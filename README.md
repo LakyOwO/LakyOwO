@@ -1,8 +1,14 @@
-¡Bienvenido! Soy Lucas Cari
+# ¡Bienvenido! Soy Lucas Cari
 
-💻 Estudiante de Analista Programador Universitario
 
-🚀 Apasionado por el desarrollo web y la creación de aplicaciones utilizando tecnologías modernas.
+
+🎓 Estudiante de último año de Analista Programador Universitario.
+
+💻 Desarrollador Full Stack en formación, apasionado por el desarrollo web y la creación de aplicaciones modernas utilizando tecnologías como Angular, TypeScript y APIs REST.
+
+🚀 Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo frontend y backend, buenas prácticas de programación, bases de datos y arquitectura de aplicaciones.
+
+📍 Jujuy, Argentina
 
 ## 🛠 Tecnologías
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
