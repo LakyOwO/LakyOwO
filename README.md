@@ -1,5 +1,3 @@
-# 👋 Hola, soy Lucas Cari
-
 💻 Estudiante de Analista Programador Universitario
 
 🚀 Apasionado por el desarrollo web y la creación de aplicaciones utilizando tecnologías modernas.
@@ -54,8 +52,8 @@ Aplicación que genera códigos QR consumiendo una API externa.
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: Agregar cuando tengas perfil
+- GitHub: https://github.com/LakyOwO
+- LinkedIn: https://www.linkedin.com/in/lucas-cari-13b5b0412
 
 ---
 
