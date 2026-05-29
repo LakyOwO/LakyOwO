@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hola, soy Lucas Cari
 
-<!--
-**LakyOwO/LakyOwO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de Analista Programador Universitario
 
-Here are some ideas to get you started:
+🚀 Apasionado por el desarrollo web y la creación de aplicaciones utilizando tecnologías modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+
+### Frontend
+- Angular
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+### Herramientas
+- Git
+- GitHub
+- VS Code
+- Postman
+
+### APIs
+- REST APIs
+- JSON
+- RapidAPI
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Angular avanzado
+- Consumo de APIs
+- Arquitectura REST
+- Buenas prácticas de desarrollo
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🍽 Sistema de Recetas
+Aplicación Angular que consume una API de recetas y permite visualizar información nutricional y preparación.
+
+### 🏎 Portal Fórmula 1
+Dashboard con estadísticas de pilotos, equipos y temporadas utilizando APIs deportivas.
+
+### 🎬 Portal de Películas
+Aplicación web desarrollada con Angular y Bootstrap para explorar películas y series.
+
+### 📱 Generador de QR
+Aplicación que genera códigos QR consumiendo una API externa.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TU_USUARIO
+- LinkedIn: Agregar cuando tengas perfil
+
+---
+
+⭐ Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
